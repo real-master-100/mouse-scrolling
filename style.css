@@ -343,6 +343,7 @@
   }
 
   .video-visual {
+    position: fixed;
     animation-timeline: --section;
     animation-range-end: exit 110%;
     animation-name: update-hue;
